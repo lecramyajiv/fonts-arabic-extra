@@ -1,0 +1,71 @@
+/*
+Harmattan-webfont-example.css
+This file is part of Harmattan font family (http://software.sil.org/harmattan/)
+and is Copyright (c) 2014-2023, SIL International (http://www.sil.org/).
+with Reserved Font Names "Harmattan" and "SIL". This Font Software is licensed
+under the SIL Open Font License, Version 1.1. You should have received a copy
+of the license along with this Font Software. If this is not the case, go to
+(http://scripts.sil.org/OFL) for all the details including a FAQ.
+*/
+
+/* use Harmattan - Regular in .woff format */
+@font-face {
+  font-family: HarmattanRW;
+  src: url(Harmattan-Regular.woff2);
+}
+@font-face {
+  font-family: HarmattanBW;
+  src: url(Harmattan-Bold.woff2);
+}
+
+
+/* set body to use Harmattan in .woff format */
+body {
+  font-family: HarmattanRW, serif; text-align: left;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}
+/* remove bold styling from heading */
+h1 {
+  font-weight: normal;	
+}
+h2 {
+  font-weight: normal;	
+}
+.rtl {
+  font-family: HarmattanRW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+.rtlb {
+  font-family: HarmattanBW, sans-serif; font-size: 200%; direction: rtl; text-align: right;
+    /* fall back to sans serif so that it's really obvious if the fonts don't load */
+}	
+
+.cv440 {
+  font-family: HarmattanRW;
+  -moz-font-feature-settings: "cv44" 0; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv441 {
+  font-family: HarmattanRW;
+  -moz-font-feature-settings: "cv44" 1; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv620 {
+  font-family: Harmattan$W;
+  -moz-font-feature-settings: "cv62" 0; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv622 {
+  font-family: HarmattanRW;
+  -moz-font-feature-settings: "cv62" 2; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv800 {
+  font-family: HarmattanRW; 
+  -moz-font-feature-settings: "cv80" 0; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv801 {
+  font-family: HarmattanRW; 
+  -moz-font-feature-settings: "cv80" 1; font-size: 200%; direction: rtl; text-align: right;
+}
+.cv44180801 {
+  font-family: HarmattanRW; 
+  -moz-font-feature-settings: "cv44" 1, "cv80" 1, "cv08" 1; font-size: 200%; direction: rtl; text-align: right;
+}
+	
