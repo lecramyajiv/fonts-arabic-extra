@@ -20,6 +20,7 @@ https://software.sil.org/scheherazade/
 https://packages.debian.org/trixie/fonts-unikurdweb
 https://packages.debian.org/trixie/fonts-nafees
 https://packages.debian.org/trixie/fonts-paktype
+ https://android.googlesource.com/
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -43,3 +44,4 @@ https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.000.zip
 http://deb.debian.org/debian/pool/main/f/fonts-unikurdweb/fonts-unikurdweb_1.0.orig.tar.bz2
 http://deb.debian.org/debian/pool/main/f/fonts-nafees/fonts-nafees_1.2.orig.tar.bz2
 http://deb.debian.org/debian/pool/main/f/fonts-paktype/fonts-paktype_0.0svn20121225.orig.tar.bz2
+https://kojipkgs.fedoraproject.org//packages/google-droid-fonts/20200215/17.fc40/src/google-droid-fonts-20200215-17.fc40.src.rpm
