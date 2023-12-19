@@ -6,7 +6,16 @@ https://github.com/aliftype/reem-kufi
 https://github.com/aliftype/raqq
 https://github.com/aliftype/amiri-typewriter
 https://github.com/aliftype/hussaini-nastaleeq
-
+https://packages.debian.org/bullseye/fonts-hosny-thabit
+https://www.arabeyes.org/Khotot
+https://packages.debian.org/bookworm/fonts-kacst
+https://packages.debian.org/bookworm/fonts-kacst-one
+https://github.com/Gue3bara/Lemonada
+https://software.sil.org/alkalami
+https://software.sil.org/awami/
+https://software.sil.org/harmattan/
+https://software.sil.org/lateef/
+https://software.sil.org/ruwudu/
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -16,3 +25,11 @@ https://github.com/aliftype/mada/releases/download/v1.5/Mada-1.5.zip
 https://github.com/aliftype/aref-ruqaa/releases/download/v1.006/ArefRuqaa-v1.006.zip
 https://github.com/aliftype/qahiri/archive/refs/tags/v3.00.tar.gz
 https://github.com/aliftype/amiri/releases/download/1.000/Amiri-1.000.zip
+http://deb.debian.org/debian/pool/main/f/fonts-hosny-thabit/fonts-hosny-thabit_0.02.orig.tar.gz
+http://deb.debian.org/debian/pool/main/f/fonts-arabeyes/fonts-arabeyes_2.1.orig.tar.xz
+http://deb.debian.org/debian/pool/main/f/fonts-kacst-one/fonts-kacst-one_5.0+svn11846.orig.tar.xz
+http://deb.debian.org/debian/pool/main/f/fonts-kacst/fonts-kacst_2.01+mry.orig-mry-kacstqurn.tar.bz2
+https://github.com/Gue3bara/Lemonada/archive/refs/tags/v4.004.tar.gz
+https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip
+https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.200.zip
+https://software.sil.org/downloads/r/harmattan/Harmattan-4.000.zip
