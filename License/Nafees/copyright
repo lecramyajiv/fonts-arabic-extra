@@ -1,0 +1,31 @@
+This package was debianized by Mohammed Adnène Trojette
+<adn+deb@diwi.org> on Wed, 31 May 2006 07:09:41 +0200
+
+The current Debian maintainer is Mohammed Adnène Trojette
+<adn+deb@diwi.org>.
+
+It was downloaded from http://www.crulp.org/nafeesWebNaskh.html
+
+Copyright (c) 2004 by Center for Research in Urdu Language Processing (CRULP), National University of Computer and Emerging Sciences, Lahore, Pakistan. All Rights Reserved.
+
+These fonts are free; you can redistribute them and/or modify them under
+the terms  of the GNU  General Public License  as published by  the Free
+Software Foundation; either version 2 of the License.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public
+ License with the Debian GNU/Linux distribution in file
+ /usr/share/common-licenses/GPL-2; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301,
+ USA.
+
+On Debian systems, the complete text of the GNU General Public
+License, version 2, can be found in /usr/share/common-licenses/GPL-2.
+
+The current Debian packaging is (C) 2006, Mohammed Adnène Trojette
+<adn+deb@diwi.org> and is licensed under the GPL, see above.
+
