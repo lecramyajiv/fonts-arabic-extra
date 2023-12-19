@@ -16,6 +16,10 @@ https://software.sil.org/awami/
 https://software.sil.org/harmattan/
 https://software.sil.org/lateef/
 https://software.sil.org/ruwudu/
+https://software.sil.org/scheherazade/
+https://packages.debian.org/trixie/fonts-unikurdweb
+https://packages.debian.org/trixie/fonts-nafees
+https://packages.debian.org/trixie/fonts-paktype
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -33,3 +37,9 @@ https://github.com/Gue3bara/Lemonada/archive/refs/tags/v4.004.tar.gz
 https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip
 https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.200.zip
 https://software.sil.org/downloads/r/harmattan/Harmattan-4.000.zip
+https://software.sil.org/downloads/r/ruwudu/Ruwudu-3.000.zip
+https://software.sil.org/downloads/r/lateef/Lateef-4.200.zip
+https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.000.zip
+http://deb.debian.org/debian/pool/main/f/fonts-unikurdweb/fonts-unikurdweb_1.0.orig.tar.bz2
+http://deb.debian.org/debian/pool/main/f/fonts-nafees/fonts-nafees_1.2.orig.tar.bz2
+http://deb.debian.org/debian/pool/main/f/fonts-paktype/fonts-paktype_0.0svn20121225.orig.tar.bz2
