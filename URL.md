@@ -32,7 +32,11 @@ https://github.com/BornaIz/Lalezar
 https://github.com/Gue3bara/Alexandria
 https://github.com/rastikerdar/vazirmatn
 https://github.com/BornaIz/markazitext
-
+https://github.com/rosettatype/handjet
+https://github.com/Tarobish/Jomhuria
+https://github.com/Tarobish/Mirza
+https://github.com/zeynepakay/Rakkas
+https://github.com/Tarobish/Katibeh
 
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
@@ -69,3 +73,9 @@ https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz
 https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz
 https://github.com/rastikerdar/vazirmatn/releases/download/v33.003/vazirmatn-v33.003.zip
 https://github.com/BornaIz/markazitext/archive/ccc1945/markazitext-ccc1945.tar.gz
+https://github.com/rosettatype/handjet/archive/refs/tags/2.004.tar.gz
+https://fonts.google.com/specimen/Jomhuria/about?subset=arabic&noto.script=Arab
+https://fonts.google.com/specimen/Mirza/about?subset=arabic&noto.script=Arab
+https://fonts.google.com/specimen/Rakkas/about?subset=arabic&noto.script=Arab
+https://github.com/originaltype/kufam/archive/ca255c8/kufam-ca255c8.tar.gz
+https://fonts.google.com/specimen/Katibeh/about?subset=arabic&noto.script=Arab
