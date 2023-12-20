@@ -37,7 +37,9 @@ https://github.com/Tarobish/Jomhuria
 https://github.com/Tarobish/Mirza
 https://github.com/zeynepakay/Rakkas
 https://github.com/Tarobish/Katibeh
-
+https://gulzarfont.org/
+https://github.com/namelatype/Marhey
+https://github.com/bluemix/vibes-typeface
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -79,3 +81,6 @@ https://fonts.google.com/specimen/Mirza/about?subset=arabic&noto.script=Arab
 https://fonts.google.com/specimen/Rakkas/about?subset=arabic&noto.script=Arab
 https://github.com/originaltype/kufam/archive/ca255c8/kufam-ca255c8.tar.gz
 https://fonts.google.com/specimen/Katibeh/about?subset=arabic&noto.script=Arab
+https://github.com/googlefonts/Gulzar/releases/download/Gulzar-v1.002/Gulzar-1.002.zip
+https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz
+https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz
