@@ -30,6 +30,10 @@ https://github.com/Gue3bara/El-Messiri
 https://fonts.google.com/specimen/Readex+Pro?subset=arabic&noto.script=Arab
 https://github.com/BornaIz/Lalezar
 https://github.com/Gue3bara/Alexandria
+https://github.com/rastikerdar/vazirmatn
+https://github.com/BornaIz/markazitext
+
+
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -63,3 +67,5 @@ https://github.com/Gue3bara/El-Messiri/archive/553b98d/El-messiri-553b98d.tar.gz
 https://fonts.google.com/specimen/Readex+Pro/about?subset=arabic&noto.script=Arab
 https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz
 https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz
+https://github.com/rastikerdar/vazirmatn/releases/download/v33.003/vazirmatn-v33.003.zip
+https://github.com/BornaIz/markazitext/archive/ccc1945/markazitext-ccc1945.tar.gz
