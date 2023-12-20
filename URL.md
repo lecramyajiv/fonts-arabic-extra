@@ -24,7 +24,12 @@ https://packages.debian.org/trixie/fonts-paktype
 https://github.com/googlefonts/Rubik
 https://github.com/Gue3bara/Cairo
 https://github.com/googlefonts/tajawal
-
+https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic?subset=arabic&noto.script=Arab
+https://github.com/JuergenWillrodt/Almarai
+https://github.com/Gue3bara/El-Messiri
+https://fonts.google.com/specimen/Readex+Pro?subset=arabic&noto.script=Arab
+https://github.com/BornaIz/Lalezar
+https://github.com/Gue3bara/Alexandria
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -51,4 +56,10 @@ http://deb.debian.org/debian/pool/main/f/fonts-paktype/fonts-paktype_0.0svn20121
 https://kojipkgs.fedoraproject.org//packages/google-droid-fonts/20200215/17.fc40/src/google-droid-fonts-20200215-17.fc40.src.rpm
 https://github.com/googlefonts/Rubik/archive/e337a5f/Rubik-e337a5f.tar.gz
 https://github.com/Gue3bara/Cairo/archive/refs/tags/v3.116.tar.gz
-https://https://github.com/googlefonts/tajawal/archive/2085b89/tajawal-2085b89.tar.gz
+https://github.com/googlefonts/tajawal/archive/2085b89/tajawal-2085b89.tar.gz
+https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic/about?subset=arabic&noto.script=Arab
+https://github.com/JuergenWillrodt/Almarai/archive/7307ede/Almarai-7307ede.tar.gz
+https://github.com/Gue3bara/El-Messiri/archive/553b98d/El-messiri-553b98d.tar.gz
+https://fonts.google.com/specimen/Readex+Pro/about?subset=arabic&noto.script=Arab
+https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz
+https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz
