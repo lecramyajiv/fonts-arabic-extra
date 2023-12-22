@@ -41,6 +41,8 @@ https://gulzarfont.org/
 https://github.com/namelatype/Marhey
 https://github.com/bluemix/vibes-typeface
 https://github.com/Gue3bara/Blaka
+https://packages.debian.org/sid/fonts-farsiweb
+https://packages.debian.org/sid/fonts-freefarsi
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -86,3 +88,5 @@ https://github.com/googlefonts/Gulzar/releases/download/Gulzar-v1.002/Gulzar-1.0
 https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz
 https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz
 https://github.com/Gue3bara/Blaka/archive/7f264ee/Blaka-7f264ee.tar.gz
+http://deb.debian.org/debian/pool/main/f/fonts-farsiweb/fonts-farsiweb_0.4.dfsg.orig.tar.xz
+http://deb.debian.org/debian/pool/main/f/fonts-freefarsi/fonts-freefarsi_1.0.0~beta1.orig.tar.bz2
