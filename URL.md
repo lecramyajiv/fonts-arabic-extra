@@ -30,7 +30,6 @@ https://github.com/Gue3bara/El-Messiri
 https://fonts.google.com/specimen/Readex+Pro?subset=arabic&noto.script=Arab
 https://github.com/BornaIz/Lalezar
 https://github.com/Gue3bara/Alexandria
-https://github.com/rastikerdar/vazirmatn
 https://github.com/BornaIz/markazitext
 https://github.com/rosettatype/handjet
 https://github.com/Tarobish/Jomhuria
@@ -41,8 +40,7 @@ https://gulzarfont.org/
 https://github.com/namelatype/Marhey
 https://github.com/bluemix/vibes-typeface
 https://github.com/Gue3bara/Blaka
-https://packages.debian.org/sid/fonts-farsiweb
-https://packages.debian.org/sid/fonts-freefarsi
+
 
 https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
@@ -76,7 +74,6 @@ https://github.com/Gue3bara/El-Messiri/archive/553b98d/El-messiri-553b98d.tar.gz
 https://fonts.google.com/specimen/Readex+Pro/about?subset=arabic&noto.script=Arab
 https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz
 https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz
-https://github.com/rastikerdar/vazirmatn/releases/download/v33.003/vazirmatn-v33.003.zip
 https://github.com/BornaIz/markazitext/archive/ccc1945/markazitext-ccc1945.tar.gz
 https://github.com/rosettatype/handjet/archive/refs/tags/2.004.tar.gz
 https://fonts.google.com/specimen/Jomhuria/about?subset=arabic&noto.script=Arab
@@ -88,5 +85,4 @@ https://github.com/googlefonts/Gulzar/releases/download/Gulzar-v1.002/Gulzar-1.0
 https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz
 https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz
 https://github.com/Gue3bara/Blaka/archive/7f264ee/Blaka-7f264ee.tar.gz
-http://deb.debian.org/debian/pool/main/f/fonts-farsiweb/fonts-farsiweb_0.4.dfsg.orig.tar.xz
-http://deb.debian.org/debian/pool/main/f/fonts-freefarsi/fonts-freefarsi_1.0.0~beta1.orig.tar.bz2
+
