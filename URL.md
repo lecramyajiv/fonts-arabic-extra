@@ -1,6 +1,6 @@
 https://github.com/aliftype/amiri
 https://github.com/aliftype/qahiri
-https://github.com/aliftype/aref-ruqaa
+https://github.com/aliftype/aref-ruqaa  classical Ruqaa calligraphic style.
 https://github.com/aliftype/mada
 https://github.com/aliftype/reem-kufi
 https://github.com/aliftype/raqq
@@ -32,7 +32,7 @@ https://github.com/Gue3bara/Alexandria
 https://github.com/BornaIz/markazitext
 https://github.com/Tarobish/Jomhuria
 https://github.com/Tarobish/Mirza
-https://github.com/zeynepakay/Rakkas
+https://github.com/zeynepakay/Rakkas  Ruqaa calligraphic style.
 https://github.com/Tarobish/Katibeh
 https://gulzarfont.org/  ---nastaleeq
 https://github.com/namelatype/Marhey
