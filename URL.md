@@ -21,7 +21,6 @@ https://packages.debian.org/trixie/fonts-unikurdweb
 https://packages.debian.org/trixie/fonts-nafees
 https://packages.debian.org/trixie/fonts-paktype
  https://android.googlesource.com/
-https://github.com/googlefonts/Rubik
 https://github.com/Gue3bara/Cairo
 https://github.com/googlefonts/tajawal
 https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic?subset=arabic&noto.script=Arab
@@ -31,12 +30,11 @@ https://fonts.google.com/specimen/Readex+Pro?subset=arabic&noto.script=Arab
 https://github.com/BornaIz/Lalezar
 https://github.com/Gue3bara/Alexandria
 https://github.com/BornaIz/markazitext
-https://github.com/rosettatype/handjet
 https://github.com/Tarobish/Jomhuria
 https://github.com/Tarobish/Mirza
 https://github.com/zeynepakay/Rakkas
 https://github.com/Tarobish/Katibeh
-https://gulzarfont.org/
+https://gulzarfont.org/  ---nastaleeq
 https://github.com/namelatype/Marhey
 https://github.com/bluemix/vibes-typeface
 https://github.com/Gue3bara/Blaka
