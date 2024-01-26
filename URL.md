@@ -1,81 +1,83 @@
-https://github.com/aliftype/amiri
-https://github.com/aliftype/qahiri
-https://github.com/aliftype/aref-ruqaa  classical Ruqaa calligraphic style.
-https://github.com/aliftype/mada
-https://github.com/aliftype/reem-kufi
-https://github.com/aliftype/raqq
-https://github.com/aliftype/amiri-typewriter
-https://packages.debian.org/bullseye/fonts-hosny-thabit
-https://www.arabeyes.org/Khotot
-https://packages.debian.org/bookworm/fonts-kacst
-https://packages.debian.org/bookworm/fonts-kacst-one
-https://github.com/Gue3bara/Lemonada
-https://software.sil.org/alkalami
-https://software.sil.org/harmattan/
-https://software.sil.org/lateef/
-https://software.sil.org/ruwudu/
-https://software.sil.org/scheherazade/
-https://packages.debian.org/trixie/fonts-unikurdweb
-https://packages.debian.org/trixie/fonts-nafees
-https://packages.debian.org/trixie/fonts-paktype
- https://android.googlesource.com/
-https://github.com/Gue3bara/Cairo
-https://github.com/googlefonts/tajawal
-https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic?subset=arabic&noto.script=Arab
-https://github.com/JuergenWillrodt/Almarai
-https://github.com/Gue3bara/El-Messiri
-https://fonts.google.com/specimen/Readex+Pro?subset=arabic&noto.script=Arab
-https://github.com/BornaIz/Lalezar
-https://github.com/Gue3bara/Alexandria
-https://github.com/BornaIz/markazitext
-https://github.com/Tarobish/Jomhuria
-https://github.com/Tarobish/Mirza
-https://github.com/zeynepakay/Rakkas  Ruqaa calligraphic style.
-https://github.com/Tarobish/Katibeh
-https://github.com/namelatype/Marhey
-https://github.com/bluemix/vibes-typeface
-https://github.com/Gue3bara/Blaka
+# Homepage of Fonts
 
+1. Aliftype [Amiri](https://github.com/aliftype/amiri)
+2. Aliftype [Qahiri](https://github.com/aliftype/qahiri)
+3. Aliftype [Aref](https://github.com/aliftype/aref-ruqaa)
+4. Aliftype [Mada](https://github.com/aliftype/mada)
+5. Aliftype [Reenkufi](https://github.com/aliftype/reem-kufi)
+6. Aliftype [Raqq](https://github.com/aliftype/raqq)
+7. Aliftype [Amiri](https://github.com/aliftype/amiri-typewriter)
+8. Debian [Hosny](https://packages.debian.org/bullseye/fonts-hosny-thabit)
+9. Khotot [Arabeyes](https://www.arabeyes.org/Khotot)
+10. Debian [Kacst](https://packages.debian.org/bookworm/fonts-kacst)
+11. Debian [KacstOne](https://packages.debian.org/bookworm/fonts-kacst-one)
+12.  Gue3bara [Lemonada](https://github.com/Gue3bara/Lemonada)
+13. SIL [Alkalami](https://software.sil.org/alkalami)
+14. SIL [Harmattan](https://software.sil.org/harmattan/)
+15. SIL [Lateef](https://software.sil.org/lateef/)
+16. SIL [Ruwudu](https://software.sil.org/ruwudu/)
+17. SIL [Scheherazaede](https://software.sil.org/scheherazade/)
+18. Debian [Unikurd](https://packages.debian.org/trixie/fonts-unikurdweb)
+19. Debian [Nafees](https://packages.debian.org/trixie/fonts-nafees)
+20. Debian [Paktype](https://packages.debian.org/trixie/fonts-paktype)
+21. Android [Droidfonts](https://android.googlesource.com/)
+22. Gue3bara [Cairo](https://github.com/Gue3bara/Cairo)
+23. Googlefonts [Tajawal](https://github.com/googlefonts/tajawal)
+24. IBM [Plex Sans](https://github.com/IBM/plex)
+25. Jurgen [Almarai](https://github.com/JuergenWillrodt/Almarai)
+26. Gue3bara [El-Messiri](https://github.com/Gue3bara/El-Messiri)
+27. Google [ReadexPro](https://github.com/ThomasJockin/readexpro)
+28. Bornaiz [Lalezar](https://github.com/BornaIz/Lalezar)
+29. Gue3bara [Alexandria](https://github.com/Gue3bara/Alexandria)
+30. Bornaiz [MArkazi](https://github.com/BornaIz/markazitext)
+31. Tarobish [Jomhuria](https://github.com/Tarobish/Jomhuria)
+32. Tarobish [Mirza](https://github.com/Tarobish/Mirza)
+33. Zeyne [Rakkas](https://github.com/zeynepakay/Rakkas)
+34. Tarobish [Katibeh](https://github.com/Tarobish/Katibeh)
+35. namelatype [Marhey](https://github.com/namelatype/Marhey)
+36. nluemix [Vibes](https://github.com/bluemix/vibes-typeface)
+37. Gue3bara [Blaka](https://github.com/Gue3bara/Blaka)
+38. Ubuntu [UbuntuArabic](https://launchpad.net)
 
+#  Download URL of Fonts
 
-https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
-https://github.com/aliftype/raqq/releases/download/v2.00/Raqq-2.00.zip
-https://github.com/aliftype/reem-kufi/releases/download/v1.7/ReemKufi-1.7.zip
-https://github.com/aliftype/mada/releases/download/v1.5/Mada-1.5.zip
-https://github.com/aliftype/aref-ruqaa/releases/download/v1.006/ArefRuqaa-v1.006.zip
-https://github.com/aliftype/qahiri/archive/refs/tags/v3.00.tar.gz
-https://github.com/aliftype/amiri/releases/download/1.000/Amiri-1.000.zip
-http://deb.debian.org/debian/pool/main/f/fonts-hosny-thabit/fonts-hosny-thabit_0.02.orig.tar.gz
-http://deb.debian.org/debian/pool/main/f/fonts-arabeyes/fonts-arabeyes_2.1.orig.tar.xz
-http://deb.debian.org/debian/pool/main/f/fonts-kacst-one/fonts-kacst-one_5.0+svn11846.orig.tar.xz
-http://deb.debian.org/debian/pool/main/f/fonts-kacst/fonts-kacst_2.01+mry.orig-mry-kacstqurn.tar.bz2
-https://github.com/Gue3bara/Lemonada/archive/refs/tags/v4.004.tar.gz
-https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip
-https://software.sil.org/downloads/r/harmattan/Harmattan-4.000.zip
-https://software.sil.org/downloads/r/ruwudu/Ruwudu-3.000.zip
-https://software.sil.org/downloads/r/lateef/Lateef-4.200.zip
-https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.000.zip
-http://deb.debian.org/debian/pool/main/f/fonts-unikurdweb/fonts-unikurdweb_1.0.orig.tar.bz2
-http://deb.debian.org/debian/pool/main/f/fonts-nafees/fonts-nafees_1.2.orig.tar.bz2
-http://deb.debian.org/debian/pool/main/f/fonts-paktype/fonts-paktype_0.0svn20121225.orig.tar.bz2
-https://kojipkgs.fedoraproject.org//packages/google-droid-fonts/20200215/17.fc40/src/google-droid-fonts-20200215-17.fc40.src.rpm
-https://github.com/googlefonts/Rubik/archive/e337a5f/Rubik-e337a5f.tar.gz
-https://github.com/Gue3bara/Cairo/archive/refs/tags/v3.116.tar.gz
-https://github.com/googlefonts/tajawal/archive/2085b89/tajawal-2085b89.tar.gz
-https://fonts.google.com/specimen/IBM+Plex+Sans+Arabic/about?subset=arabic&noto.script=Arab
-https://github.com/JuergenWillrodt/Almarai/archive/7307ede/Almarai-7307ede.tar.gz
-https://github.com/Gue3bara/El-Messiri/archive/553b98d/El-messiri-553b98d.tar.gz
-https://fonts.google.com/specimen/Readex+Pro/about?subset=arabic&noto.script=Arab
-https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz
-https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz
-https://github.com/BornaIz/markazitext/archive/ccc1945/markazitext-ccc1945.tar.gz
-https://github.com/rosettatype/handjet/archive/refs/tags/2.004.tar.gz
-https://fonts.google.com/specimen/Jomhuria/about?subset=arabic&noto.script=Arab
-https://fonts.google.com/specimen/Mirza/about?subset=arabic&noto.script=Arab
-https://fonts.google.com/specimen/Rakkas/about?subset=arabic&noto.script=Arab
-https://github.com/originaltype/kufam/archive/ca255c8/kufam-ca255c8.tar.gz
-https://fonts.google.com/specimen/Katibeh/about?subset=arabic&noto.script=Arab
-https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz
-https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz
-https://github.com/Gue3bara/Blaka/archive/7f264ee/Blaka-7f264ee.tar.gz
-
+1. [Amiri-Typewriter](https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip)
+2. [Raqq](https://github.com/aliftype/raqq/releases/download/v2.00/Raqq-2.00.zip)
+3. [ReemKufi](https://github.com/aliftype/reem-kufi/releases/download/v1.7/ReemKufi-1.7.zip)
+4. [Mada](https://github.com/aliftype/mada/releases/download/v1.5/Mada-1.5.zip)
+5. [Aref](https://github.com/aliftype/aref-ruqaa/releases/download/v1.006/ArefRuqaa-v1.006.zip)
+6. [Qahiri](https://github.com/aliftype/qahiri/archive/refs/tags/v3.00.tar.gz)
+7. [Amiri](https://github.com/aliftype/amiri/releases/download/1.000/Amiri-1.000.zip)
+8. [Thabit](http://deb.debian.org/debian/pool/main/f/fonts-hosny-thabit/fonts-hosny-thabit_0.02.orig.tar.gz)
+9. [Arabeyes](http://deb.debian.org/debian/pool/main/f/fonts-arabeyes/fonts-arabeyes_2.1.orig.tar.xz)
+10. [KacstOne](http://deb.debian.org/debian/pool/main/f/fonts-kacst-one/fonts-kacst-one_5.0+svn11846.orig.tar.xz)
+11. [Kacst](http://deb.debian.org/debian/pool/main/f/fonts-kacst/fonts-kacst_2.01+mry.orig-mry-kacstqurn.tar.bz2)
+12. [Lemonada](https://github.com/Gue3bara/Lemonada/archive/refs/tags/v4.004.tar.gz)
+13. [Alkalami](https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip)
+14. [Harmattan](https:ab//software.sil.org/downloads/r/harmattan/Harmattan-4.000.zip)
+15. [Ruwudu](https://software.sil.org/downloads/r/ruwudu/Ruwudu-3.000.zip)
+16. [Lateef](https://software.sil.org/downloads/r/lateef/Lateef-4.200.zip)
+17. [Scheherazade](https://software.sil.org/downloads/r/scheherazade/ScheherazadeNew-4.000.zip)
+18. [Unikurdweb](http://deb.debian.org/debian/pool/main/f/fonts-unikurdweb/fonts-unikurdweb_1.0.orig.tar.bz2)
+19. [Nafees](http://deb.debian.org/debian/pool/main/f/fonts-nafees/fonts-nafees_1.2.orig.tar.bz2)
+20. [Paktype](http://deb.debian.org/debian/pool/main/f/fonts-paktype/fonts-paktype_0.0svn20121225.orig.tar.bz2)
+21. [Droid Fonts](https://kojipkgs.fedoraproject.org//packages/google-droid-fonts/20200215/17.fc40/src/google-droid-fonts-20200215-17.fc40.src.rpm)
+22. [Cairo](https://github.com/Gue3bara/Cairo/archive/refs/tags/v3.116.tar.gz)
+23. [Tajawal](https://github.com/googlefonts/tajawal/archive/2085b89/tajawal-2085b89.tar.gz)
+24. [IBM Plex TTF](https://github.com/IBM/plex/releases/download/v6.3.0/TrueType.zip)
+25. [IBM Plex OTF](https://github.com/IBM/plex/releases/download/v6.3.0/OpenType.zip)
+26. [Almarai](https://github.com/JuergenWillrodt/Almarai/archive/7307ede/Almarai-7307ede.tar.gz)
+27. [El-Messiri](https://github.com/Gue3bara/El-Messiri/archive/553b98d/El-messiri-553b98d.tar.gz)
+28. [ReadexPro](https://github.com/ThomasJockin/readexpro/archive/6a4f24e/readexpro-6a4f24e.tar.gz)
+29. [Lalezar](https://github.com/BornaIz/Lalezar/archive/refs/tags/1.003.tar.gz)
+30. [Alexandria](https://github.com/Gue3bara/Alexandria/archive/refs/tags/v5.013.tar.gz)
+31. [Markazi](https://github.com/BornaIz/markazitext/archive/ccc1945/markazitext-ccc1945.tar.gz)
+32. [Jomuhuria](https://github.com/Tarobish/Jomhuria/archive/d4b8f42/Jomuhuria-d4b8f42.tar.gz)
+33. [Mirza](https://github.com/Tarobish/Mirza/archive/afd8482/Mirza-afd8482.tar.gz)
+34. [Rakkas](https://github.com/zeynepakay/Rakkas/archive/3bdb0ba/Rakkas-3bdb0ba.tar.gz)
+35. [Kufam](https://github.com/originaltype/kufam/archive/ca255c8/kufam-ca255c8.tar.gz)
+36. [Katibeh](https://github.com/Tarobish/Katibeh/archive/3fde990/Katibeh-3fde990.tar.gz)
+37. [Marhey](https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz)
+38. [Vibes](https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz)
+39. [Blaka](https://github.com/Gue3bara/Blaka/archive/7f264ee/Blaka-7f264ee.tar.gz)
+40. [Ubuntu Arabic](https://launchpad.net/ubuntu/+archive/primary/+files/ubuntu-font-family-sources_0.84~mono0.83+arabicfontconfig.orig-arabicbeta.tar.gz)
