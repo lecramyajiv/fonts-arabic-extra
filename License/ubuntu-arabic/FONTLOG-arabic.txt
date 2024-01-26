@@ -1,0 +1,58 @@
+This is a supplementary FONTLOG for the Arabic test. It should be read in
+conjunction with the main FONTLOG.txt file which is one level up.
+
+2015-11-26 (Iain Lane, Paul Sladen) Ubuntu Font Family version 0.84+arabic
+  This is a public release of Arabic to Ubuntu Xenial Xerus, a pre-release
+  version of Ubuntu. It may contain bugs.
+
+  Due to differences in metrics compared to the other Ubuntu fonts, the Arabic
+  font is shipped as a separate font "Ubuntu Arabic". We have provided with
+  this distribution a "fontconfig" rule that should make most applications
+  select Ubuntu Arabic when writing Arabic text using the Ubuntu font. Without
+  this "fontconfig" rule in place, users will need to select "Ubuntu Arabic"
+  manually in order to use Ubuntu Arabic.
+
+  The versionining problems mentioned under "Test font" for version
+  0.83+arabic-nonfree below are not resolved.
+
+2015-09-15 (Iain Lane, Paul Sladen) Ubuntu Font Family version 0.83+arabic-nonfree
+
+  Please note that this is an incomplete test font for gathering feedback on
+  Arabic-script metrics only. It is NOT for distribution, all rights are
+  reserved and no permission is granted for distribution.
+
+  Please only use the PPA for testing, and try to avoid manual installation:
+  using the PPA allows new and final test versions to be automatically pushed
+  out when available.
+
+  Coverage:
+
+  Like Latin script, Arabic script is used for several languages: Persian,
+  Urdu, aswell as Arabic.
+
+  Test font:
+
+  The 0.83+arabic test font will appear as "Ubuntu Arab 0.81 met", which is
+  short for "Ubuntu Arabic 0.81 metrics test" and will need to be manually
+  selected in the application you're testing.  In order to get it to people as
+  quickly as possible the file is as-supplied by Dalton Maag: It is "0.83 +
+  arabic", versioned 0.000, labelled 0.81 and with 0.910 at the U+EFFD
+  test-debug position.  It is fully appreciated that this ambiguity is likely
+  to cause communication difficulties in performing Quality-Assurance and
+  gathering feedback, however the desire is to make this available quickly.
+
+  Scaling:
+
+  This test version is the same height as the existing Ubuntu fonts have been
+  since 2010.  In August 2015 a version with an 85%-scaled Arabic was tested
+  privately.  With some combinations of double-stacked Arabic diacriticals in
+  some applications clipping may occur when the diacriticals extending off the
+  top or bottom.  There is a trade-off between clipping or scaling to fit.
+
+  The decision to return to 100% scaling for the Arabic-script coverage.
+  sizing was based on a private testing programme performed in August 2015 that
+  showed a clear preference for retaining the ratio between the Ubuntu Latin
+  and Ubuntu Arabic sizing.  This size is very close to DejaVu Sans Arabic,
+  Ubuntu's traditional fallback Arabic script font in the default user
+  interface.
+

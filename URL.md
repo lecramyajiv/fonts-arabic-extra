@@ -5,14 +5,12 @@ https://github.com/aliftype/mada
 https://github.com/aliftype/reem-kufi
 https://github.com/aliftype/raqq
 https://github.com/aliftype/amiri-typewriter
-https://github.com/aliftype/hussaini-nastaleeq
 https://packages.debian.org/bullseye/fonts-hosny-thabit
 https://www.arabeyes.org/Khotot
 https://packages.debian.org/bookworm/fonts-kacst
 https://packages.debian.org/bookworm/fonts-kacst-one
 https://github.com/Gue3bara/Lemonada
 https://software.sil.org/alkalami
-https://software.sil.org/awami/
 https://software.sil.org/harmattan/
 https://software.sil.org/lateef/
 https://software.sil.org/ruwudu/
@@ -34,13 +32,12 @@ https://github.com/Tarobish/Jomhuria
 https://github.com/Tarobish/Mirza
 https://github.com/zeynepakay/Rakkas  Ruqaa calligraphic style.
 https://github.com/Tarobish/Katibeh
-https://gulzarfont.org/  ---nastaleeq
 https://github.com/namelatype/Marhey
 https://github.com/bluemix/vibes-typeface
 https://github.com/Gue3bara/Blaka
 
 
-https://github.com/aliftype/hussaini-nastaleeq/releases/download/v0.04/hussaini-nastaleeq-0.04.zip
+
 https://github.com/aliftype/amiri-typewriter/releases/download/v1.1/AmiriTypewriter-1.1.zip
 https://github.com/aliftype/raqq/releases/download/v2.00/Raqq-2.00.zip
 https://github.com/aliftype/reem-kufi/releases/download/v1.7/ReemKufi-1.7.zip
@@ -54,7 +51,6 @@ http://deb.debian.org/debian/pool/main/f/fonts-kacst-one/fonts-kacst-one_5.0+svn
 http://deb.debian.org/debian/pool/main/f/fonts-kacst/fonts-kacst_2.01+mry.orig-mry-kacstqurn.tar.bz2
 https://github.com/Gue3bara/Lemonada/archive/refs/tags/v4.004.tar.gz
 https://software.sil.org/downloads/r/alkalami/Alkalami-3.000.zip
-https://software.sil.org/downloads/r/awami/AwamiNastaliq-3.200.zip
 https://software.sil.org/downloads/r/harmattan/Harmattan-4.000.zip
 https://software.sil.org/downloads/r/ruwudu/Ruwudu-3.000.zip
 https://software.sil.org/downloads/r/lateef/Lateef-4.200.zip
@@ -79,7 +75,6 @@ https://fonts.google.com/specimen/Mirza/about?subset=arabic&noto.script=Arab
 https://fonts.google.com/specimen/Rakkas/about?subset=arabic&noto.script=Arab
 https://github.com/originaltype/kufam/archive/ca255c8/kufam-ca255c8.tar.gz
 https://fonts.google.com/specimen/Katibeh/about?subset=arabic&noto.script=Arab
-https://github.com/googlefonts/Gulzar/releases/download/Gulzar-v1.002/Gulzar-1.002.zip
 https://github.com/namelatype/Marhey/archive/535eeb5/Marhey-535eeb5.tar.gz
 https://github.com/bluemix/vibes-typeface/archive/4cfe8e2/vibes-typeface-4cfe8e2.tar.gz
 https://github.com/Gue3bara/Blaka/archive/7f264ee/Blaka-7f264ee.tar.gz
