@@ -21,7 +21,7 @@ The fonts available in this repo are
 7. Blaka
 8. Cairo
 9. Droid Kufi
-10. Droid Naksh
+10. Droid Naskh
 11. El-Messiri
 12. Harmattan
 13. IBM Plex Sans
